@@ -18,10 +18,6 @@
 
 </p>
 
-<p align="center">
-rentry n strawpage wip. 
-</p> 
-
 
 <!--
 **ultimateliifeform/ultimateliifeform** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
