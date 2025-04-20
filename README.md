@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-    <img width="140" src="https://komarev.com/ghpvc/?username=your-github-username&color=d70030" alt="views count">
+    <img width="140" src="https://komarev.com/ghpvc/?username=your-github-username&color=ff002c" alt="views count">
 </p>
 
 <p align="center">
 ★ 
 </p> 
 <p align="center">
-    <img width="400" src="https://media.discordapp.net/attachments/1351944786055270433/1362525020588343377/d9d6424bab002d7caced50ef4aae2892-removebg-preview.png?ex=6802b5cf&is=6801644f&hm=549d9542325bea5ab3bc9b1aca409a21f022d0b06cf29bf14b8b366a9a0685ca&=&format=webp&quality=lossless&width=442&height=475" alt="wowie zowie">
+    <img width="300" src="https://64.media.tumblr.com/ad2b7d7eb20add4441e032adbbf65ae6/a15ef306b0d59836-4f/s400x600/d46b7a4c538fc8e023c9d4f09363cc1779a16c8a.gifv" alt="wowie zowie">
 </p>
 <p align="center">
 ❝ if you were a sinner, i could make you believe. ❞
